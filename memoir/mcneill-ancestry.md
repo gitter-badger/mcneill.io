@@ -1,7 +1,7 @@
 # McNeill, MacNeil, and Beyond
 
 
-## Genealogy, Population Genetics, and Personal Forensics 
+## Genealogy, Population Genetics, and Personal Forensics
 
 
 # Dedication
@@ -30,23 +30,23 @@ Chiang Mai, 2014
 - Various complications regarding written records and the history as it is written (changed names hiding Irish descent, illiteracy, basis of certain histories
 - Y-DNA and the story of genetic mutation and migration
 - Non-paternity events, Scottish clan/family system, last names (again)
-- Proximity issues regarding matches and Colleraine, Ballycastle, Antirim, 
+- Proximity issues regarding matches and Colleraine, Ballycastle, Antirim,
 - Descent from John and the story of McNeill in the new world
-- 
+-
 
 Other issues: images (download), source documents (pdf and save)
 
-## The MacNeil name and Descent 
+## The MacNeil name and Descent
 
 > Confusion can arise between this surname 'O'Neill' (otherwise 'Ua Neill') and the names 'Ui Neill' and 'MacNeill'. As a body, the descendants of Niall of the Nine Hostages are often referred to by Annalists and historians as the 'Ui Neill', taking their name from him: included among the northern Ui Neill are the O'Donnell chieftains and the O'Neill and MacLochlainn Kings of Ailech, while the southern Ui Neill includes the O'Melaghlin Kings of Meath. The 'O'Neills' are a branch of the northern Ui Neill and take their name from the Niall 'Glundubh' who was killed in 919. The 'MacNeills' on the other hand, although claiming descent from both Niall 'Glundubh' and Niall of the Nine Hostages, take their name from a later and Scottish Niall.
 
 
 ## Years per Generation Averages
 
-- Years per generation. As stated by historians, averages of 35-40 years occur so often as to be the norm in Irish and Highland history. 
+- Years per generation. As stated by historians, averages of 35-40 years occur so often as to be the norm in Irish and Highland history.
 
 
-### McNeill Patrilineal Generations 
+### McNeill Patrilineal Generations
 
 - Daniel, b. 1630 d. 1684 (54 years)
 - John, b. 1680, d. 1775 (85 years, father 50 at time of birth)
@@ -73,7 +73,7 @@ I donated sperm in the early 1990s while an undergraduate student at UC Berkeley
 - Boy born Feb 13, 2001 - Dartyn (Parent)
 - Girl born Nov 12, 2003 - Dawnosaurus (Parent)
 
-For these births I was between 29 and 37 years old, though I have until this point had no contact with the children or the parents. There could be up to four and possibly more donor siblings than these listed here. 
+For these births I was between 29 and 37 years old, though I have until this point had no contact with the children or the parents. There could be up to four and possibly more donor siblings than these listed here.
 
 My next child is expected to be born in 2015 at the age of 49 years old.
 
@@ -95,7 +95,7 @@ MacNeil of Barra is said to be descended from Nial of the Nine Hostages, and *Ca
 The relations between the islands can be analyzed via YDNA, and there is a group with reports from the various islands. Unfortunately sample size is fairly small from the smaller islands:
 
 - [Descriptive results for MacNeil family group in FamilyTreeDNA](https://www.familytreedna.com/public/MacNeil/default.aspx?section=results)
-- [Color-coded, ordered YDNA data ro the MacNeil family](https://www.familytreedna.com/public/MacNeil/default.aspx?vgroup=MacNeil&section=ycolorized)
+- [Color-coded, ordered YDNA data of the MacNeil family](https://www.familytreedna.com/public/MacNeil/default.aspx?vgroup=MacNeil&section=ycolorized)
 
 It appears that those outside of Barra have DNA differences which indicate a separate (though of course somewhat related) genealogy.
 
@@ -115,7 +115,7 @@ This is a fascinating subject. About five years ago I spend a bit of time diving
 
 I did a bunch of genealogical research a few years ago, and got a pretty good picture of things. I've also done research using Y-DNA haplotyping. While genealogy is about families and descent, the haplotype research is based on genetic evolution and has a much longer time scale (at the order of hundreds to thousands of years). I've had 67 markers tested on our Y chromosome (passed down from fathers to sons).
 
-One of our relations is doing both genealogical and haplotype research, and you may want to get in touch with her. If I recall correctly, she has been involved in running a McNeill family newsletter/clan association. Her name is Gwen McNeill and she is at gigigamac@comcast.net. 
+One of our relations is doing both genealogical and haplotype research, and you may want to get in touch with her. If I recall correctly, she has been involved in running a McNeill family newsletter/clan association. Her name is Gwen McNeill and she is at gigigamac@comcast.net.
 
 The haplotype information for the "MacNeil" names is at http://www.familytreedna.com/public/MacNeil/
 
@@ -124,7 +124,7 @@ One problem with genealogical research is that for many people, there was no sin
 
 Then there is the whole problem of associating a name to a place, and also to an ethnic grouping. For example, the emigrant ancestor was likely born and living in Coleraine, Northern Ireland. But was he Irish or English or Scottish? This is not clear and we cannot be sure with the evidence we have.
 
-On the Haplotype side, there are no matches with the McNeill/MacNeil's of either Barra, Gigha, or Colonsay. This means that his name could have been an adopted name, or changed, or there was a "non-paternity event", as they call it. 
+On the Haplotype side, there are no matches with the McNeill/MacNeil's of either Barra, Gigha, or Colonsay. This means that his name could have been an adopted name, or changed, or there was a "non-paternity event", as they call it.
 
 The best match is a 67-1 who charts their ancestor back to a William English (1774); Co Antrim, Ireland. Other close matches are more common in Ireland and Northern Ireland than Scotland and England.
 
@@ -144,20 +144,20 @@ Daniel McNeill b.1629/1658 in/of Coleraine
 Daniel's father could be...
 
 - Presbyterian Scots Ulster settler (1611-1630) (of the 100,000 scots settlers)
-- Scottish military quartered there (1642-1650) (of the 10,000 troops under Munroe brought to fight the Irish Confederate war)
+- Scottish military quartered there (1642-1650) (of the 10,000 troops under Munroe brought to fight the Irish Confederate war). Some of these were called *[Redshanks](https://en.wikipedia.org/wiki/Redshank_%28soldier%29)*, a particular kind of scottish mercenary from the lowlands and the Islands.
 - Native Irish converted to Presbyterianism (this is not unlikely and sometimes the only thing that needed doing was changing of O'Neill to McNeill...)
 
-Daniel's son John, our emigrant ancestor, was born in Coleraine in 1680, emigrated in 1722 (this was part of a large emigration due to financial pressures on Presbyterians that began around 1717/1719) 
+Daniel's son John, our emigrant ancestor, was born in Coleraine in 1680, emigrated in 1722 (this was part of a large emigration due to financial pressures on Presbyterians that began around 1717/1719)
 
-John married in 1744 (yes, at age 64) in a Presbyterian church in Philadelphia, and later migrated to Northern Virginia (dying at 85 after raising three boys). If he was Presbyterian when he emigrated, then he may be an Ulster Scot. 
+John married in 1744 (yes, at age 64) in a Presbyterian church in Philadelphia, and later migrated to Northern Virginia (dying at 85 after raising three boys). If he was Presbyterian when he emigrated, then he may be an Ulster Scot.
 
-As we know, McNeill (and variant spellings) are associated with three islands in the Scot Hebrides: Barra, Colonsay, and Gigha, but none of the sequencing done in those places are turning out matches for us (granted, sample size is small). 
+As we know, McNeill (and variant spellings) are associated with three islands in the Scot Hebrides: Barra, Colonsay, and Gigha, but none of the sequencing done in those places are turning out matches for us (granted, sample size is small).
 
-So, short answer is I don't really know! Scots-Irish is likely the best tentative description. Turns out this group we were in made up 20% of the American colonies at the time of the American Revolution, and is pretty much the hard scrapping, kick-ass settlers of Ulster and the United States, carving it out of chaos. 
+So, short answer is I don't really know! Scots-Irish is likely the best tentative description. Turns out this group we were in made up 20% of the American colonies at the time of the American Revolution, and is pretty much the hard scrapping, kick-ass settlers of Ulster and the United States, carving it out of chaos.
 
 http://www.ulsterancestry.com/ulster-scots.html
 
-Ulster Scot may be the right title, but for sure our ancestors came from Ireland, but for how many generations were they there? And the Scots came from Ireland before that anyway, in the 5th and 6th centuries, so it is hard to fix things in a given nationality/ethnicity. Basically, we are having to rethink different ethnic identity, esp. in that part of the world. For example: 
+Ulster Scot may be the right title, but for sure our ancestors came from Ireland, but for how many generations were they there? And the Scots came from Ireland before that anyway, in the 5th and 6th centuries, so it is hard to fix things in a given nationality/ethnicity. Basically, we are having to rethink different ethnic identity, esp. in that part of the world. For example:
 
 http://news.scotsman.com/scitech.cfm?id=1393742006
 
@@ -184,7 +184,7 @@ Thank you so much for sharing this everyone.
 
 
 Hi,
-The McNeills always claimed to be from Scotland.  When I visited Scotland a few years ago and went through the Highlands and the Battlefield of Culloden (where the English defeated the Highlanders and ended the Jacobite Rising), the prevailing story was that in the 1600s and the 1700s the English did the "Clearances", they drove the clans off their lands.  The displaced Scots migrated to Northern Ireland, then later to the US, which is why they are called Scot Irish.  The English and Scots met at Culloden in 1746, so that's beyond the time the McNeills showed up in Northern Ireland.  I did some research at the McDonald castle in Scotland where all the immigration records are kept and found no Daniel McNeill immigrated from Scotland.  I suspect Daniel is the son of a displaced Scot who went to Northern Ireland.  After I finish the US family history (McNeill/Pancake/Frost), I'll tackle that subject.  The Pancakes have an interesting history and it is intertwined with the McNeills, both families were in the same county in Ohio, etc.  Also, the Frosts (who founded Frostburg, MD) are an interesting lot, with roots going back to the Winthropes in England.  The Frosts were from Suffolk, England -- weren't on the Mayflower but arrived in US in 1636 and settled in Cambridge, MA.  When I complete their stories, I'll forward it on. 
+The McNeills always claimed to be from Scotland.  When I visited Scotland a few years ago and went through the Highlands and the Battlefield of Culloden (where the English defeated the Highlanders and ended the Jacobite Rising), the prevailing story was that in the 1600s and the 1700s the English did the "Clearances", they drove the clans off their lands.  The displaced Scots migrated to Northern Ireland, then later to the US, which is why they are called Scot Irish.  The English and Scots met at Culloden in 1746, so that's beyond the time the McNeills showed up in Northern Ireland.  I did some research at the McDonald castle in Scotland where all the immigration records are kept and found no Daniel McNeill immigrated from Scotland.  I suspect Daniel is the son of a displaced Scot who went to Northern Ireland.  After I finish the US family history (McNeill/Pancake/Frost), I'll tackle that subject.  The Pancakes have an interesting history and it is intertwined with the McNeills, both families were in the same county in Ohio, etc.  Also, the Frosts (who founded Frostburg, MD) are an interesting lot, with roots going back to the Winthropes in England.  The Frosts were from Suffolk, England -- weren't on the Mayflower but arrived in US in 1636 and settled in Cambridge, MA.  When I complete their stories, I'll forward it on.
 
 
 
@@ -196,13 +196,13 @@ A couple more points come to mind.
 
 I think it is wise to focus on different families and their interactions and interrelations. Even for the McNeill's we are descended both patrilineally and matrilineally from two of the three sons of our emigrant ancestor. One son is our direct patrilineal ancestor and another came back through various families to merge back in through marriage.
 
-Regarding Scottish vs. Irish, there have been in the past a lot of discrimination of the Irish in the US, and at some point I think some of our other ancestors may have even changed their name to avoid this. 
+Regarding Scottish vs. Irish, there have been in the past a lot of discrimination of the Irish in the US, and at some point I think some of our other ancestors may have even changed their name to avoid this.
 
-When dealing with this line of direct male descendants, it is important to keep in mind that this is one small fraction of our total genetic and genealogical heritage. But the Y-DNA and MT-DNA allows for direct matrilineal and direct patrilineal mapping. 
+When dealing with this line of direct male descendants, it is important to keep in mind that this is one small fraction of our total genetic and genealogical heritage. But the Y-DNA and MT-DNA allows for direct matrilineal and direct patrilineal mapping.
 
 There was another website I found back many years ago which allowed people to see each other's genealogical lines and add what was shared into their own lineage. This was great because we have some ancestors which have a very detailed and historical line. Of course this makes sense since in the past there was a much smaller population, and those who were much more likely to have offspring that survived and had children themselves had the means to document their family lines. Surfing through those connections I recall being able to go back to some early Irish kings around the second century. Not the patrilineal direct line, but still ancestors nonetheless.
 
-Here in the Thailand and neighbor countries it is fascinating how some of the hill tribes (who are very ancient peoples) have practices to ensure no inbreeding. For example, among most hill tribes, the boys and girls in a village do not date or mate, but they have to go to another village for courtship. In addition, it is common practice that the wife leaves her village and goes to live in the village of the husband. Also, some groups, such as the Hmong, actually have had family names for a long time (which is uncommon in most of the world) and those with the same family name were not allowed to marry. Finally, some hill tribes (e.g., the Lahu) actually have a common practice, only now disappearing, which is to sell the female children when they are still infants (to different hill tribes/ethnic groups altogether). These girls are then raised into a different culture altogether, kind of a comprehensive adoption policy. Quite a (to us) bizarre cultural practice which has the result of making any actual genetic tracing (along matrilineal lines) impossible. 
+Here in the Thailand and neighbor countries it is fascinating how some of the hill tribes (who are very ancient peoples) have practices to ensure no inbreeding. For example, among most hill tribes, the boys and girls in a village do not date or mate, but they have to go to another village for courtship. In addition, it is common practice that the wife leaves her village and goes to live in the village of the husband. Also, some groups, such as the Hmong, actually have had family names for a long time (which is uncommon in most of the world) and those with the same family name were not allowed to marry. Finally, some hill tribes (e.g., the Lahu) actually have a common practice, only now disappearing, which is to sell the female children when they are still infants (to different hill tribes/ethnic groups altogether). These girls are then raised into a different culture altogether, kind of a comprehensive adoption policy. Quite a (to us) bizarre cultural practice which has the result of making any actual genetic tracing (along matrilineal lines) impossible.
 
 
 
@@ -218,7 +218,7 @@ You are absolutely correct about the discrimination of the Irish in the US -- Mo
 
 
 
-Just a small detail on connecting the dots. Daniel McNeill, the father of John McNeill (our emigrant ancestor) was born in (or lived in) Coleraine, Northern Ireland. So it was his parent(s) who emigrated to Ireland (or his grandparents, etc.), if they did.. So I think we are dealing with the first half of the 17 century for getting to Ireland (at the earliest), and again only if they did. Fascinating stuff. 
+Just a small detail on connecting the dots. Daniel McNeill, the father of John McNeill (our emigrant ancestor) was born in (or lived in) Coleraine, Northern Ireland. So it was his parent(s) who emigrated to Ireland (or his grandparents, etc.), if they did.. So I think we are dealing with the first half of the 17 century for getting to Ireland (at the earliest), and again only if they did. Fascinating stuff.
 
 It took a long time to finally get behind John to get some detail. I forget where exactly I tracked that down. There are some graveyard headstone records I found at one point. I really think the mystery could be sorted out in Northern Ireland. Someday I'll get over there!
 
@@ -251,14 +251,14 @@ obviously no connection.
 
 Genetic Genealogy is the study of families using analysis of DNA. There are two kinds of DNA to study this, YDNA is part of the Y chromosome (passed from fathers to sons), and MTDNA which is passed on from Mothers to their children. Both males and females have X chromosomes (females have two, one from each parent), whereas males have an X and a Y, which is why good genetic tests are done with DNA from males. For females who want testing, it is most accurately done with DNA from a male sibling who share both parents.
 
-Genetic Genealogy deals with hundreds to thousands of years, whereas genealogy alone (the stories of families) best deals with tens to hundreds of years (10 generations or so). One thing about genealogy is that stories can be wrong (and so-called non-paternity events can take place, where the actual father of a child is not known or hidden). 
+Genetic Genealogy deals with hundreds to thousands of years, whereas genealogy alone (the stories of families) best deals with tens to hundreds of years (10 generations or so). One thing about genealogy is that stories can be wrong (and so-called non-paternity events can take place, where the actual father of a child is not known or hidden).
 
 Genetic Genealogy can't lie, as long as samples are taken accurately and not contaminated. However, it is less accurate as we are dealing with a longer time scale and the variability of mutation.
 
 
 ## Companies doing Genetic Genealogy
 
-There are several companies doing genetic testing. 
+There are several companies doing genetic testing.
 
 - [National Geographics Genographic project](https://genographic.nationalgeographic.com/about/) uses the FTDNA kit and analysis
 - [Family Tree DNA](https://my.familytreedna.com/) (My Kit is # 84839)
@@ -267,7 +267,7 @@ There are several companies doing genetic testing.
 
 I started with FTDNA, as at the time they were one of the only DNA testers on the market. Over time I have added additional tests, and more information and matches flow from the project. This is still an active area of science so new discoveries create new tests (which cost more money for further information).
 
-I might try Ancestry.com instead if I were just starting out. 23andme sounds a bit scary of an organization and there is so little information on the website, it feels like a scam. One thing about FTDNA is that you are provided little interpretation and a lot of data (which is what I prefer). 
+I might try Ancestry.com instead if I were just starting out. 23andme sounds a bit scary of an organization and there is so little information on the website, it feels like a scam. One thing about FTDNA is that you are provided little interpretation and a lot of data (which is what I prefer).
 
 
 ## Haplogroup, Haplotype, Deep Clade
@@ -290,7 +290,7 @@ Since my last analysis, there have been more subclades discovered under U106, pe
 
 ## An Overview of Human Evolution and Genetic Genealogy (and Culture)
 
-The basic idea is that the human species may be 200,000 years old or so (though alternative approaches make claims of up to 1 million years), with full human modern behavior (culture, from the anthropological perspective) around 50,000 years ago. The surviving species emerged from Africa after the [Toba Eruption Event](http://en.wikipedia.org/wiki/Toba_eruption) around 69-77,000 years ago. Toba is suggested as a near-extinction event, which could have killed off any others. 
+The basic idea is that the human species may be 200,000 years old or so (though alternative approaches make claims of up to 1 million years), with full human modern behavior (culture, from the anthropological perspective) around 50,000 years ago. The surviving species emerged from Africa after the [Toba Eruption Event](http://en.wikipedia.org/wiki/Toba_eruption) around 69-77,000 years ago. Toba is suggested as a near-extinction event, which could have killed off any others.
 
 Whatever the cause (Toba event or not) there is a known *hourglass* or *bottleneck* where the human species was reduced to around [10,000 breeding pairs](http://www.pnas.org/content/95/4/1961.full) (some say 7,000).
 
@@ -298,7 +298,7 @@ Africa may not have been the original place of origin of the species, but was th
 
 Some time around 10-12,000 years ago some human groups left the hunting and gathering lifestyle and innovated with wild grains but turned into true agriculture (and animal husbandry, which may have occurred before then).
 
-Around 5-6,000 years ago the [Bronze Age](http://en.wikipedia.org/wiki/Bronze_Age) ushered in advanced mining, smelting and metalworking. Evidence of Bronze technology continued as late as 500 CE, such as in Thailand. 
+Around 5-6,000 years ago the [Bronze Age](http://en.wikipedia.org/wiki/Bronze_Age) ushered in advanced mining, smelting and metalworking. Evidence of Bronze technology continued as late as 500 CE, such as in Thailand.
 
 Around 5,000 years ago writing technology also first appeared (in Egypt). In backwards places like Ireland, script such as [Ogham](http://en.wikipedia.org/wiki/Ogham) could be a little over 2,000 years old, about the same time that the Buddhist canon was being committed to writing in Pali. Cham in Vietnam was around 1,800 years ago. Khmer had a script (based on Pallavi) around 1,500 years ago. Written Myanmar, Thai and Vietnamese writing is of more recent origins, around 700-800 years ago (possibly a little longer).
 
@@ -307,7 +307,7 @@ Six hundred years ago, the [moveable type printing press](http://en.wikipedia.or
 Now, we come up to the genealogy of the McNeill, since we know that the emigrant ancestor John McNeill was illiterate but his sons (born in/after 1745) were not. This is nearly 300 years ago. The genetic genealogy, however, reaches back to the earliest emigration out of Africa, and calculations can be done to ascertain the relative relatedness of others with genetic testing.
 
 
-## 
+##
 
 
 ## Additional Genealogical Resources for American McNeill
@@ -320,9 +320,9 @@ Now, we come up to the genealogy of the McNeill, since we know that the emigrant
 
 ## Brief History of Ulster, Northern Ireland
 
-Early in 1600s -- around 1600 the English decided to *plantation* the numerous Scots to Northern Ireland.  The McNeills are on the List of Scots plantationed to Londonderry/Derry.  The reason for this system was two-fold: 
+Early in 1600s -- around 1600 the English decided to *plantation* the numerous Scots to Northern Ireland.  The McNeills are on the List of Scots plantationed to Londonderry/Derry.  The reason for this system was two-fold:
 
-- Get rid of the low land Scots and repopulate with English. 
+- Get rid of the low land Scots and repopulate with English.
 - Populate Ireland with Protestant loyalists and get rid of Roman Catholic majority.  
 
 Cold and harsh but that's how the English operated, and you can see the seeds of the IRA being sown.  The English continued to "get rid" of Scots with the Highland Clearances for the next two centuries.  After the battle of Cullodun, the English forbid any Highlander from wearing the tartan and kilt.  If anyone was seen wearing their tartan, the English solider would find them and beat them to death.  The Highlanders were forbidden any type of weapon and again the penalty was death.  
@@ -331,7 +331,7 @@ BTW: We are the McNeills of Colonsay not of Bara.  The home was on the Inner Heb
 
 The McNeills got into trouble with the English because they supported the clan Campbell (1500/1600s) and fought a battle and got fined: Lachlann McNeil (1,000 pounds) and Neil Og McNeill (300 pounds).
 
-So the simple answer is we are Scottish but not from main clan. 
+So the simple answer is we are Scottish but not from main clan.
 
 
 
@@ -341,11 +341,11 @@ Unfortunately I have to make this a bit more complicated. This is due to my rese
 
 I've had this testing done (one takes a scraping of the inside of their mouth and send it to the lab, and they do analysis for a fee, with follow on analyses available over time as progress in the research is made).
 
-Our DNA does not correspond to any other known population of McNeills (Gigha, Barra, Colonsay, Taynish Argyll) based on current samples (and there are more than a few at this point). That means we are not genetically related patrilineally to those McNeills. And we are not descended from Niall of the Nine Hostages (who was quite otherwise prolific). 
+Our DNA does not correspond to any other known population of McNeills (Gigha, Barra, Colonsay, Taynish Argyll) based on current samples (and there are more than a few at this point). That means we are not genetically related patrilineally to those McNeills. And we are not descended from Niall of the Nine Hostages (who was quite otherwise prolific).
 
 Non-Paternity Events are when someone is descended from someone else than they thought. The individual's genetic father is not the same as who raised them as their father. Some researchers put this around 1-5% of each generation (!!!). And in many cases the offspring are unaware of this fact. We have to take into consideration that this could be the case nearly everywhere along the path back into the past.
 
-Family names can be given to non-genetic offspring either through adoption or other kinds of family affiliation. In the case of Ireland/Scotland, apparently last names were an innovation around the 11th century. Also, they were not consistently spelled one way, but were largely phonetic transcriptions (most people being functionally illiterate and living in a largely spoken culture). Changing one's last name was easier to do, and for various reasons, much different than in the USA today. 
+Family names can be given to non-genetic offspring either through adoption or other kinds of family affiliation. In the case of Ireland/Scotland, apparently last names were an innovation around the 11th century. Also, they were not consistently spelled one way, but were largely phonetic transcriptions (most people being functionally illiterate and living in a largely spoken culture). Changing one's last name was easier to do, and for various reasons, much different than in the USA today.
 
 Here in Thailand, it is one of the easiest things to change one's name, both first and surname. This is not uncommon, especially if someone starts having a lot of bad luck. The thinking is that some naughty spirit or ghost is causing trouble. These spirits are a little dim-witted, so if you change your name, they lose track of you, and the troubles go away. This is a part of the culture and I personally know people who have done this (adults).
 In addition, the genealogical stories themselves that we have are not necessarily accurate. Some are half-truths, wishful thinking, half-remembered, or outright deceptions. The McNeill pedigree is tenuous, from a historical perspective. See especially: http://web.archive.org/web/20070126093733/http://members.aol.com/Lochlan6/sellar.htm (I'm adding the relevant point at the bottom of this email from this source).
@@ -371,7 +371,7 @@ Against this view it is sometimes argued, following A. MacLean Sinclair, that th
 
 P.S., This is a great bit of history of Northern Ireland in the 17th C.
 
-From: 
+From:
 
 
 ## History of the Scotch-Irish or Ulster Scott
